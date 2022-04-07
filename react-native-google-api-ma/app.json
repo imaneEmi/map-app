@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-google-api-map",
-    "slug": "react-native-google-api-map",
+    "name": "react-native-google-api-ma",
+    "slug": "react-native-google-api-ma",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,12 +23,7 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      },
-      "config": {
-        "googleMaps": {
-          "apiKey": "AIzaSyDWqe74BAvF4p775KSANehEFtGtk5rn9w0"
-        }
-      } 
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
